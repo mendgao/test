@@ -1,0 +1,4 @@
+/* pages/index.wxss */
+.c1{
+  color: red;
+}

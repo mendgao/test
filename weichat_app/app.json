@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/me/me"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "嘤嘤嘤",
+    "backgroundColor": "#eeeeee",
+    "backgroundTextStyle": "light",
+    "enablePullDownRefresh": false
+  },
+  "tabBar": {
+    "selectedColor": "#FFAE00",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "index",
+        "iconPath": "statics/iw_minus.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "me",
+        "iconPath": "statics/iw_plus.png"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
